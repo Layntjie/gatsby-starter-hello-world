@@ -1,4 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+[![Run on Repl.it](https://repl.it/badge/github/Layntjie/gatsby-starter-hello-world)](https://repl.it/github/Layntjie/gatsby-starter-hello-world)
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
